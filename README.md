@@ -65,3 +65,6 @@
 
 ### Day [022/100]: May 27, Monday
 [Today's Progress](https://frontendpadawan.wordpress.com/2019/05/27/r3d022-100daysofcode/)
+
+### Day [023/100]: May 28, Tuesday
+[Today's Progress](https://frontendpadawan.wordpress.com/2019/05/28/r3d023-100daysofcode/)
