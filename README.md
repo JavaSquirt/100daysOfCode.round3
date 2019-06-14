@@ -116,3 +116,6 @@
 
 ### Day [039/100]: June 13, Thursday
 [Today's Progress](https://frontendpadawan.wordpress.com/2019/06/13/r3d039-100daysofcode/)
+
+### Day [040/100]: June 14, Friday
+[Today's Progress](https://frontendpadawan.wordpress.com/2019/06/14/r3d040-100daysofcode/)
