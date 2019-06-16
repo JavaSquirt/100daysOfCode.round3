@@ -122,3 +122,6 @@
 
 ### Day [041/100]: June 15, Saturday
 [Today's Progress](https://frontendpadawan.wordpress.com/2019/06/15/r3d041-100daysofcode/)
+
+### Day [042/100]: June 16, Sunday
+[Today's Progress](https://frontendpadawan.wordpress.com/2019/06/16/r3d042-100daysofcode/)
