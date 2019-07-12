@@ -200,3 +200,6 @@
 
 ### Day [067/100]: July 11, Thursday
 [Today's Progress](https://frontendpadawan.wordpress.com/2019/07/11/r3d067-100daysofcode/)
+
+### Day [068/100]: July 12, Friday
+[Today's Progress](https://frontendpadawan.wordpress.com/2019/07/12/r3d068-100daysofcode/)
