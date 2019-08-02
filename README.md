@@ -260,3 +260,6 @@
 
 ### Day [087/100]: August 01, Thursday
 [Today's Progress](https://frontendpadawan.wordpress.com/2019/08/01/r3d087-100daysofcode/)
+
+### Day [088/100]: August 02, Friday
+[Today's Progress](https://frontendpadawan.wordpress.com/2019/08/02/r3d088-100daysofcode/)
