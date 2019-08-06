@@ -272,3 +272,6 @@
 
 ### Day [091/100]: August 05, Monday
 [Today's Progress](https://frontendpadawan.wordpress.com/2019/08/05/r3d091-100daysofcode/)
+
+### Day [092/100]: August 06, Tuesday
+[Today's Progress](https://frontendpadawan.wordpress.com/2019/08/06/r3d092-100daysofcode/)
